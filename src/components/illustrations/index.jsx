@@ -1,6 +1,6 @@
 export const Logo = () => {
   return (
-    <svg xmlns="http://www.w3.org/2000/svg" width="120" height="35">
+    <h2> Wirey </h2>
       <g fill="none" fillRule="evenodd">
         <path
           fill="#FFF"
