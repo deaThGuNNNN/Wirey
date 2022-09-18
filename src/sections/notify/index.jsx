@@ -56,7 +56,7 @@ export const Notify = () => {
               />
             </div>
             <button className="p-3 font-bold transition-all duration-500 rounded-md bg-cyan-100 text-midnight hover:bg-cyan-400">
-              Get Notified
+              Submit
             </button>
           </div>
         </form>
